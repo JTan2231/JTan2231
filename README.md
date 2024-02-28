@@ -1,3 +1,16 @@
-I'm Joey, a software developer interested in UX and developer tools. I like simple interfaces, and enjoy spending the time creating things from scratch to gain an intimate understanding of the design and function.
+<span style="font-family: monospace;">. 
+<br/>
+</span>
 
-Outside of programming, I like skateboarding, classical piano, and Tekken.
+<p>
+  <samp>
+    I'm Joey, a software developer interested in AI and user/developer experience.
+    <br/>
+    I like <a href="https://github.com/JTan2231/eidetic">simple interfaces</a>, and enjoy spending the time creating things <a href="https://github.com/JTan2231/hive">from scratch</a>
+    <br/>
+    to gain an intimate understanding of the design and function.
+    <br/>
+    <br/>
+    Outside of programming, I like skateboarding, classical piano, and Tekken.
+  </samp>
+</p>
