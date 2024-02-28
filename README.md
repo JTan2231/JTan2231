@@ -1,7 +1,3 @@
-<span style="font-family: monospace;">. 
-<br/>
-</span>
-
 <p>
   <samp>
     I'm Joey, a software developer interested in AI and user/developer experience.
